@@ -1,3 +1,12 @@
+
+CRUD Angular + NET Core + Entity Framework Core + SqlServer
+[![Angular-Tarjeta-Credito1.png](https://i.postimg.cc/tCZvKnDd/Angular-Tarjeta-Credito1.png)](https://postimg.cc/tYbzPTK7)
+[![Angular-Tarjeta-Credito-2.png](https://i.postimg.cc/B6bB2RV5/Angular-Tarjeta-Credito-2.png)](https://postimg.cc/BLWF07st)
+[![Angular-Tarjeta-Credito-3.png](https://i.postimg.cc/PxCFdLTk/Angular-Tarjeta-Credito-3.png)](https://postimg.cc/9RjBpQDx)
+[![Angular-Tarjeta-Credito-4.png](https://i.postimg.cc/FsyCFX51/Angular-Tarjeta-Credito-4.png)](https://postimg.cc/7fLnXcLy)
+[![Angular-Tarjeta-Credito-5-edit.png](https://i.postimg.cc/yxFjNcG2/Angular-Tarjeta-Credito-5-edit.png)](https://postimg.cc/9wQZ8RCB)
+
+
 # FETargetaCredito
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
